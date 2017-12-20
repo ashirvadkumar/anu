@@ -1,11 +1,11 @@
 {
   "built_on": "master",
-  "duration": 7.503000013,
-  "full_display_name": "puppet.job #6",
-  "id": "6",
-  "number": 6,
+  "duration": 12.308000057,
+  "full_display_name": "puppet.job #7",
+  "id": "7",
+  "number": 7,
   "result": "SUCCESS",
   "status_message": "?",
-  "time": "2017-12-21 03:20:56 +0530",
-  "url": "job/puppet.job/6/"
+  "time": "2017-12-21 03:28:04 +0530",
+  "url": "job/puppet.job/7/"
 }
